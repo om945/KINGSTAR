@@ -1,2 +1,3 @@
 # KINGSTAR
-This is my new Repository
+This is my new Repository.
+
